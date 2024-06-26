@@ -1,5 +1,5 @@
 # Data Science Projects
-Welcome to the Data Science Projects repository. This repository contains various data data science projects implemented using various technologies, exploring various algorithms.
+Welcome to the Data Science Projects repository. This repository contains various data data science projects implemented using various technologies and models.
 
 ## Project Overview
 ### Automotive Fuel Economy
