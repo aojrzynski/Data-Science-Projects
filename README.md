@@ -7,7 +7,6 @@ Welcome to the Data Science Projects repository. This repository contains variou
 - **Technologies Used:** python, pandas, seaborn, matplotlib, scikit-learn, statsmodels, scipi
 - **Models Used:** Linear Regression, Ridge Regression
 
-## Project Overview
 ### Increasing Employee Retention
 - **Description:** This project aims to perform clustering on employee data to identify distinct groups within the workforce. The analysis includes exploring the relationships between these clusters and employee attrition rates, providing insights into factors contributing to employee turnover. Key features analyzed include gender, job satisfaction, commute distance, performance, and department affiliation. The project also employs Principal Component Analysis (PCA) for dimensionality reduction and visualization of the clusters.
 - **Technologies Used:** python, pandas, numpy, seaborn, matplotlib, scikit-learn
