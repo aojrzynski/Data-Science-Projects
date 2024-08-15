@@ -11,7 +11,7 @@ This project explores the factors influencing car purchase decisions. By leverag
   - `Predicting Car Purchase Decisions.ipynb`: Main notebook file with the analysis.
   
 ## How to Run the Analysis
-Load the `Increasing Employee Retention.ipynb` notebook file using Jupyter notebook (or similar software).
+Load the `Predicting Car Purchae Decisions.ipynb` notebook file using Jupyter notebook (or similar software).
 
 ## License
 This project is licensed under the MIT License.
