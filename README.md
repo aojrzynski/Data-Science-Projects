@@ -26,6 +26,12 @@ Welcome to the Data Science Projects repository. This repository contains variou
 - **Technologies Used:** python, pandas, numpy, seaborn, matplotlib, scikit-learn
 - **Algorithms/Models Used:** Decision Tree, GridSearchCV
 
+### Uncovering Global Socio-Economic Outliers
+- **Description:** This project focuses on identifying countries with unique or anomalous socio-economic conditions using various unsupervised anomaly detection algorithms. Through the use of K-Means clustering, DBSCAN, Isolation Forest, and One-Class SVM, the project seeks to uncover global outliers that may indicate countries facing extreme challenges or irregular patterns.
+- **Learning Type:** Unsupervised Learning
+- **Technologies Used:** python, pandas, numpy, seaborn, matplotlib, scikit-learn
+- **Algorithms/Models Used:** K-Means, DBSCAN, Isolation Forest, One-Class SVM
+
 ## Usage
 Each project folder contains specific instructions on how to run the scripts and notebooks. Refer to the README file within each project folder for detailed usage guidelines.
 
