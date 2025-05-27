@@ -8,6 +8,12 @@ Welcome to the Data Science Projects repository. This repository contains variou
 - **Technologies Used:** python, pandas, seaborn, matplotlib, scikit-learn, statsmodels, scipi
 - **Algorithms/Models Used:** Linear Regression, Ridge Regression
 
+### Bank Customer Segmentation
+- **Description:** This project applies clustering techniques to bank customer data to uncover distinct behavioural segments and assess their relationship with churn. Using features such as credit score, account balance, number of products, and activity status, the analysis identifies four meaningful customer profiles (e.g., “Wealthy Light Users” and “Rapid Multi-Product Adopters”). The churn rate is then evaluated across these segments to support targeted retention and marketing strategies.
+- **Learning Type:** Unsupervised Learning (with supervised follow-up analysis on churn labels)
+- **Technologies Used:** python, pandas, numpy, seaborn, matplotlib, scikit-learn
+- **Algorithms/Models Used:** K-Means Clustering, StandardScaler, Silhouette Analysis, Data Visualization (heatmaps, elbow plots)
+
 ### Breast Cancer Diagnosis Using k-NN
 - **Description:** This project focuses on developing a machine learning model to predict whether a breast tumor is benign or malignant using the k-Nearest Neighbors (k-NN) algorithm, leveraging a series of preprocessing techniques, including feature scaling, dimensionality reduction through PCA, and addressing class imbalance with SMOTE.
 - **Learning Type:** Supervised Learning
