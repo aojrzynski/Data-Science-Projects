@@ -8,6 +8,12 @@ Welcome to the Data Science Projects repository. This repository contains variou
 - **Technologies Used:** python, pandas, seaborn, matplotlib, scikit-learn, statsmodels, scipi
 - **Algorithms/Models Used:** Linear Regression, Ridge Regression
 
+### Bank Customer Classification
+- **Description:** This project builds classification models to predict whether a retail bank customer is likely to churn. It explores demographic, behavioural, and financial features using logistic regression and random forest models. Feature engineering, threshold tuning, and model evaluation are used to identify high-risk customers and support retention strategies.
+- **Learning Type:** Supervised Learning
+- **Technologies Used:** python, pandas, numpy, seaborn, matplotlib, scikit-learn
+- **Algorithms/Models Used:** Logistic Regression, Random Forest, GridSearchCV, ROC Curve Analysis, Precision-Recall Threshold Tuning
+
 ### Bank Customer Segmentation
 - **Description:** This project applies clustering techniques to bank customer data to uncover distinct behavioural segments and assess their relationship with churn. Using features such as credit score, account balance, number of products, and activity status, the analysis identifies four meaningful customer profiles (e.g., “Wealthy Light Users” and “Rapid Multi-Product Adopters”). The churn rate is then evaluated across these segments to support targeted retention and marketing strategies.
 - **Learning Type:** Unsupervised Learning (with supervised follow-up analysis on churn labels)
